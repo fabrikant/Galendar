@@ -1,4 +1,6 @@
 <strings>
     <string id="AppName">Galendar</string>
     <string id="Title">Google calendar</string>
+    <string id="AuthoPrompt">Use\nyour\nphone</string>
+    
 </strings>
